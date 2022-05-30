@@ -1,5 +1,5 @@
 {
-  "name": "user-generator",
+  "name": "generar-usuario",
   "version": "0.1.0",
   "description": "Un generador de usuarios aleatorios capáz de generar nombres, apellidos y nombres de usuarios",
   "main": "index.js",
@@ -11,8 +11,8 @@
     "random",
     "randomizer"
   ],
-  "homepage":"https://github.com/AxelWine/user-generator",
-  "repository":"https://github.com/AxelWine/user-generator.git",
+  "homepage":"https://github.com/AxelWine/generar-usuario",
+  "repository":"https://github.com/AxelWine/generar-usuario.git",
   "author": "AxelWine",
   "license": "MIT"
 }

@@ -5,14 +5,14 @@ user-generator es una librería desarrollada por [Axel Wine](https://axelwine.me
 ## Instalación
 
 ```bash
-$ npm install user-generator -D
+$ npm install generar-usuario -D
 ```
 
 ## Uso
 
 Código de ejemplo para generar un objeto usuario con un nombre de usuario, nombre y apellidos.
 ```javascript
-const generator = require("user-generator");
+const generator = require("generar-usuario");
 const testUser = generator.newUser(["username","name","surnames"]);
 
 console.log(testUser);
