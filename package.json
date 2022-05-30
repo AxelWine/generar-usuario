@@ -1,0 +1,8 @@
+{
+  "name": "user-generator",
+  "version": "0.1",
+  "description": "Un generador de usuarios aleatorios capáz de generar nombres, apellidos y nombres de usuarios",
+  "main": "index.js",
+  "author": "AxelWine",
+  "license": "ISC"
+}
