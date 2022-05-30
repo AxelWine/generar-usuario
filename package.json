@@ -1,6 +1,6 @@
 {
   "name": "user-generator",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Un generador de usuarios aleatorios capáz de generar nombres, apellidos y nombres de usuarios",
   "main": "index.js",
   "keywords": [
