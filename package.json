@@ -3,6 +3,16 @@
   "version": "0.1",
   "description": "Un generador de usuarios aleatorios capáz de generar nombres, apellidos y nombres de usuarios",
   "main": "index.js",
+  "keywords": [
+    "user",
+    "users",
+    "generate",
+    "generator",
+    "random",
+    "randomizer"
+  ],
+  "homepage":"https://github.com/AxelWine/user-generator",
+  "repository":"https://github.com/AxelWine/user-generator.git",
   "author": "AxelWine",
-  "license": "ISC"
+  "license": "MIT"
 }
