@@ -26,7 +26,7 @@ const newUsername = () => {
     let username = "";
     if( Math.round(Math.random()*100) < 50 ) username += rand(data.username.firstPart);
     if( Math.round(Math.random()*100) < 50 ) username += rand(data.username.secondPart);
-    if( Math.round(Math.random()*100) < 50 || firstPart.includes(username) ) username += rand(data.username.thirdPart);
+    if( Math.round(Math.random()*100) < 50 || data.username.firstPart.includes(username) ) username += rand(data.username.thirdPart);
 
     return username;
 };

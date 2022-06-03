@@ -17,8 +17,15 @@ const testUser = generator.newUser(["username","name","surnames"]);
 
 console.log(testUser);
 ```
-
-La propiedad `newUser` admite los siguientes elementos:
+El resultado será algo como esto:
+```json
+{
+    "username": "Max",
+    "name": "Raúl",
+    "surnames": "Torrente Chávez"
+}
+```
+La propiedad `newUser` necesita un Array con los datos que desea generar, se admiten los siguientes elementos:
 * `username`
 * `name`
 * `names`
